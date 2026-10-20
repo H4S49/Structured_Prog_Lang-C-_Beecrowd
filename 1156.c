@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main(){
+    double i,j,N,sum=0;
+
+    for(i=1,j=1;i<=39;i+=2,j=j*2){
+        sum = sum + i/j;
+        
+    }
+    printf("%.2lf\n",sum);
+
+
+
+
+    return 0;
+}
