@@ -1,4 +1,4 @@
-==> 1001.c <==
+==> 1001.c <== 
 #include<stdio.h>
 int main(){
 int X,A,B;
@@ -11,7 +11,7 @@ return 0;
 
 }
 
-==> 1002.c <==
+==> 1002.c <== 
 #include<stdio.h>
 int main(){
 double pi,R,A;
@@ -25,7 +25,7 @@ return 0;
 
 }
 
-==> 1003.c <==
+==> 1003.c <== 
 #include<stdio.h>
 int main(){
 int A,B,X;
@@ -39,7 +39,7 @@ return 0;
 
 }
 
-==> 1004.c <==
+==> 1004.c <== 
 #include<stdio.h>
 int main(){
 int A,B,X;
@@ -54,7 +54,7 @@ return 0;
 }
 
 
-==> 1005.c <==
+==> 1005.c <== 
 #include<stdio.h>
 int main(){
 double A,B,X;
@@ -70,7 +70,7 @@ return 0;
 
 
 
-==> 1006.c <==
+==> 1006.c <== 
 #include<stdio.h>
 int main(){
 double A,B,C,X;
@@ -86,7 +86,7 @@ return 0;
 
 
 
-==> 1007.c <==
+==> 1007.c <== 
 #include<stdio.h>
 int main(){
 int A,B,C,D,X;
@@ -101,7 +101,7 @@ return 0;
 
 }
 
-==> 1008.c <==
+==> 1008.c <== 
 #include<stdio.h>
 int main(){
 int x,y;
@@ -117,7 +117,7 @@ return 0;
 
 }
 
-==> 1009.c <==
+==> 1009.c <== 
 #include <stdio.h>
 
 int main() {
@@ -130,7 +130,7 @@ int main() {
     return 0;
 }
 
-==> 1010.c <==
+==> 1010.c <== 
 #include<stdio.h>
 int main(){
     double a,b,x,A,B,X,total;
@@ -143,7 +143,7 @@ return 0;
 
 
 
-==> 1011.c <==
+==> 1011.c <== 
 #include<stdio.h>
 int main(){
     double r,pi=3.14159,A;
@@ -159,7 +159,7 @@ int main(){
 
 
 
-==> 1012.c <==
+==> 1012.c <== 
 #include<stdio.h>
 int main(){
     double A,B,C,pi=3.14159,tri,cir,tra,qua,ret;
@@ -184,7 +184,7 @@ return 0;
 
 
 
-==> 1013.c <==
+==> 1013.c <== 
 #include<stdio.h>
 int main(){
     int a,b,c;
@@ -208,7 +208,7 @@ return 0;
 
 
 
-==> 1014.c <==
+==> 1014.c <== 
 #include<stdio.h>
 int main(){
     double X,Y,total;
@@ -227,7 +227,7 @@ return 0;
 
 
 
-==> 1015.c <==
+==> 1015.c <== 
 #include<stdio.h>
 #include<math.h>
 int main(){
@@ -238,7 +238,7 @@ int main(){
     return 0;
 }
 
-==> 1016.c <==
+==> 1016.c <== 
 #include<stdio.h>
 int main(){
 int X,Y;
@@ -249,7 +249,7 @@ return 0;
 
 }
 
-==> 1017.c <==
+==> 1017.c <== 
 #include<stdio.h>
 int main(){
 int x,y;
@@ -262,7 +262,7 @@ return 0;
 }
 
 
-==> 1018.c <==
+==> 1018.c <== 
 #include<stdio.h>
 int main(){
     int N,a,b,c,d,e,f,g,h,i,j,k,l,m;
@@ -284,7 +284,7 @@ int main(){
     return 0;
 }
 
-==> 1019.c <==
+==> 1019.c <== 
 #include<stdio.h>
 int main(){
     int x,a,b,c,A,B;
@@ -296,7 +296,7 @@ int main(){
     printf("%d:%d:%d\n",a,b,c);
     return 0;
 }
-==> 1020.c <==
+==> 1020.c <== 
 #include<stdio.h>
 int main(){
     int a,x,X,y,z;
@@ -312,7 +312,7 @@ int main(){
 
 
 
-==> 1021.c <==
+==> 1021.c <== 
 #include <stdio.h>
 
 int main() {
@@ -369,7 +369,7 @@ int main() {
    return 0;
 }
 
-==> 1035.c <==
+==> 1035.c <== 
 #include<stdio.h>
 int main(){
     int A,B,C,D;
@@ -382,7 +382,7 @@ int main(){
         printf("Valores nao aceitos\n");
     return 0;
 }
-==> 1036.c <==
+==> 1036.c <== 
 #include<stdio.h>
 #include<math.h>
 int main(){
@@ -417,7 +417,7 @@ int main(){
     
 return 0;
 }
-==> 1037.c <==
+==> 1037.c <== 
 #include<stdio.h>
 int main(){
     double x;
@@ -441,7 +441,7 @@ int main(){
 
     return 0;
 }
-==> 1038.c <==
+==> 1038.c <== 
 #include <stdio.h>
 int main()
 {
@@ -463,9 +463,9 @@ int main()
     return 0;
 }
 
-==> 1039.c <==
+==> 1039.c <== 
 
-==> 1040.c <==
+==> 1040.c <== 
 #include <stdio.h>
 int main(){
     double N1,N2,N3,N4,N,Media,Mlf;
@@ -498,7 +498,7 @@ int main(){
     
 
 }
-==> 10400.c <==
+==> 10400.c <== 
 #include <stdio.h>
 int main(){
     double N1,N2,N3,N4,N,Media,Mlf;
@@ -533,7 +533,7 @@ int main(){
     
 
 }
-==> 1041.c <==
+==> 1041.c <== 
 #include<stdio.h>
 int main(){
     double x,y;
@@ -555,7 +555,7 @@ int main(){
 return 0;
 
 }
-==> 1042.c <==
+==> 1042.c <== 
 #include<stdio.h>
 int main(){
     int a,b,c,A,B,C,temp;
@@ -582,7 +582,7 @@ int main(){
 
     return 0;
 }
-==> 1043.c <==
+==> 1043.c <== 
 #include<stdio.h>
 int main(){
     double A,B,C,P,area;
@@ -599,7 +599,7 @@ int main(){
 
 return 0;
 }
-==> 1044.c <==
+==> 1044.c <== 
 // #include<stdio.h>
 // int main(){
 //     int a,b;
@@ -626,7 +626,7 @@ int main(){
 
 return 0;
 }
-==> 1045.c <==
+==> 1045.c <== 
 #include <stdio.h>
 int main()
 {
@@ -677,7 +677,7 @@ int main()
 
     return 0;
 }
-==> 1046.c <==
+==> 1046.c <== 
 #include<stdio.h>
 int main(){
     int a,b;
@@ -693,7 +693,7 @@ int main(){
 
     return 0;
 }
-==> 1047.c <==
+==> 1047.c <== 
 #include<stdio.h>
 int main(){
     int a,b,c,d,h,m,h1,m1,h2,m2,h3,m3,m4,m5;
@@ -737,7 +737,7 @@ int main(){
 return 0;
 }
 
-==> 1048.c <==
+==> 1048.c <== 
 #include<stdio.h>
 int main(){
     double a;
@@ -771,29 +771,59 @@ int main(){
 
     return 0;
 }
-==> 1049.c <==
+==> 1049.c <== 
 #include<stdio.h>
+#include<string.h>
+
 int main(){
-    int i;
-    scanf("%d",&i);
+    char a[100],b[100],c[100];
+    scanf("%s %s %s",a,b,c);
 
-    char *month[12] = {"January","February","March","April","May","June","July","August","September","October","November","December"};
+    if(strcmp(a, "vertebrado")==0){
+        if(strcmp(b, "ave")==0){
+            if(strcmp(c, "carnivoro")==0){
+                printf("aguia\n");
+            }
+            else if(strcmp(c, "onivoro")==0){
+                printf("pomba\n");
+            }
+        }
+        else if(strcmp(b, "mamifero")==0){
+            if(strcmp(c, "onivoro")==0){
+                printf("homem\n");
+            }
+            else if(strcmp(c, "herbivoro")==0){
+                printf("vaca\n");
+            }
+        }
+    }
+    // 2nd part //
+    if(strcmp(a, "invertebrado")==0){
+        if(strcmp(b, "inseto")==0){
+            if(strcmp(c, "hematofago")==0){
+                printf("pulga\n");
+            }
+            else if(strcmp(c, "herbivoro")==0){
+                printf("lagarta\n");
+            }
+        }
+        else if(strcmp(b, "anelideo")==0){
+            if(strcmp(c, "hematofago")==0){
+                printf("sanguessuga\n");
+            }
+            else if(strcmp(c, "onivoro")==0){
+                printf("minhoca\n");
+            }
+        }
+    }
 
-    printf("%s\n",month[i-1]);
 
 
-    return 0;
+return 0;
 }
 
-// #include<stdio.h>
-// int main(){
-//     for(int i=1;i<=2;i++){
-//         for()
-//         printf("%c > ",(char)i);
-//         printf("%d\n",i);
-//     }
-// }
-==> 1050.c <==
+    
+==> 1050.c <== 
 #include<stdio.h>
 int main(){
     int n;
@@ -821,7 +851,7 @@ int main(){
 }
 
 
-==> 1052.c <==
+==> 1052.c <== 
 #include<stdio.h>
 int main(){
     int i,X;
@@ -833,7 +863,7 @@ int main(){
 
     return 0;
 }
-==> 1060.c <==
+==> 1060.c <== 
 #include <stdio.h>
 
 int main() {
@@ -851,7 +881,7 @@ int main() {
     printf("%d valores positivos\n", count);
     return 0;
 }
-==> 1061.c <==
+==> 1061.c <== 
 #include <stdio.h>
 int main()
 {
@@ -931,7 +961,7 @@ int main()
 return 0;
 
 }
-==> 1064.c <==
+==> 1064.c <== 
 #include <stdio.h>
 
 int main() {
@@ -950,7 +980,7 @@ int main() {
     printf("%.1f\n",sum/count);
     return 0;
 }
-==> 1065.c <==
+==> 1065.c <== 
 #include <stdio.h>
 
 int main() {
@@ -967,7 +997,7 @@ int main() {
     printf("%d valores pares\n", count);
     return 0;
 }
-==> 1066.c <==
+==> 1066.c <== 
 #include <stdio.h>
 
 int main() {
@@ -998,7 +1028,7 @@ int main() {
 
     return 0;
 }
-==> 1070.c <==
+==> 1070.c <== 
 #include<stdio.h>
 int main(){
     int X,i;
@@ -1010,7 +1040,7 @@ int main(){
     }
     return 0;
 }
-==> 1071.c <==
+==> 1071.c <== 
 #include <stdio.h>
 int main()
 {
@@ -1040,7 +1070,7 @@ int main()
 
     return 0;
 }
-==> 1072.c <==
+==> 1072.c <== 
 // #include<stdio.h>
 // int main(){
 //     int N,i,X,count=0,count1=0;
@@ -1120,7 +1150,7 @@ int main() {
 
     return 0;
 }
-==> 1073.c <==
+==> 1073.c <== 
 #include<stdio.h>
 int main(){
     int N,i;
@@ -1137,7 +1167,7 @@ int main(){
 }
 
 
-==> 1074.c <==
+==> 1074.c <== 
 // #include <stdio.h>
 // int main()
 // {
@@ -1184,7 +1214,7 @@ int main()
     }
     return 0;
 }
-==> 1075.c <==
+==> 1075.c <== 
 #include<stdio.h>
 int main(){
     int N,i;
@@ -1197,7 +1227,7 @@ int main(){
 return 0;
 
 }
-==> 1079.c <==
+==> 1079.c <== 
 #include<stdio.h>
 int main(){
     int N,i,j;
@@ -1216,7 +1246,7 @@ int main(){
 
     return 0;
 }
-==> 1080.c <==
+==> 1080.c <== 
 #include <stdio.h>
 int main()
 {
@@ -1241,7 +1271,7 @@ int main()
 
     return 0;
 }
-==> 1094.c <==
+==> 1094.c <== 
 #include<stdio.h>
 int main(){
     int N,i,a,count1=0,count2=0,count3=0;
@@ -1273,7 +1303,7 @@ int main(){
 
     return 0;
 }
-==> 1095.c <==
+==> 1095.c <== 
 #include <stdio.h>
 int main()
 {
@@ -1285,7 +1315,7 @@ int main()
    return 0;
 }
 
-==> 1096.c <==
+==> 1096.c <== 
 #include <stdio.h>
 int main()
 {
@@ -1298,7 +1328,7 @@ int main()
    return 0;
 }
 
-==> 1097.c <==
+==> 1097.c <== 
 #include<stdio.h>
 int main(){
     int a=5,b=3;
@@ -1315,7 +1345,7 @@ int main(){
 
     return 0;
 }
-==> 1099.c <==
+==> 1099.c <== 
 #include <stdio.h>
 int main()
 {
@@ -1357,7 +1387,7 @@ int main()
 
     return 0;
 }
-==> 1101.c <==
+==> 1101.c <== 
 #include<stdio.h>
 int main(){
     int M,N,i,j,sum1,sum2;
@@ -1392,7 +1422,7 @@ int main(){
 
     return 0;
 }
-==> 1113.c <==
+==> 1113.c <== 
 #include<stdio.h>
 int main(){
     int a,b;
@@ -1408,7 +1438,7 @@ int main(){
 
     return 0;
 }
-==> 1114.c <==
+==> 1114.c <== 
 #include <stdio.h>
 int main()
 {
@@ -1429,7 +1459,7 @@ int main()
 
     return 0;
 }
-==> 1115.c <==
+==> 1115.c <== 
 #include<stdio.h>
 int main(){
     int a,b;
@@ -1447,7 +1477,7 @@ int main(){
 
     return 0;
 }
-==> 1116.c <==
+==> 1116.c <== 
 #include<stdio.h>
 int main(){
     int N;
@@ -1473,7 +1503,7 @@ int main(){
 
     return 0;
 }
-==> 1117.c <==
+==> 1117.c <== 
 #include <stdio.h>
 int main()
 {
@@ -1500,7 +1530,7 @@ int main()
 
     return 0;
 }
-==> 1132.c <==
+==> 1132.c <== 
 #include <stdio.h>
 int main(){
     int X, Y, sum1, sum2;
@@ -1531,7 +1561,7 @@ int main(){
     return 0;
 }
 
-==> 1134.c <==
+==> 1134.c <== 
 #include<stdio.h>
 int main(){
     int N,alc=0,gas=0,die=0;
@@ -1551,7 +1581,7 @@ int main(){
 
     return 0;
 }
-==> 1142.c <==
+==> 1142.c <== 
 #include<stdio.h>
 int main(){
     int a=1,b=3,N,i,j;
@@ -1569,7 +1599,7 @@ int main(){
 
     return 0;
 }
-==> 1143.c <==
+==> 1143.c <== 
 #include<stdio.h>
 #include<math.h>
 int main(){
@@ -1592,7 +1622,7 @@ int main(){
 
     return 0;
 }
-==> 1144.c <==
+==> 1144.c <== 
 #include<stdio.h>
 #include<math.h>
 int main(){
@@ -1614,7 +1644,7 @@ int main(){
 
     return 0;
 }
-==> 1146.c <==
+==> 1146.c <== 
 #include<stdio.h>
 int main()
 {
@@ -1638,7 +1668,7 @@ int main()
     return 0;
 
 }
-==> 1149.c <==
+==> 1149.c <== 
 #include<stdio.h>
 int main(){
     int i,A,N,sum1;
@@ -1662,7 +1692,37 @@ int main(){
 
     return 0;
 }
-==> 1151.c <==
+==> 1150.c <== 
+#include<stdio.h>
+int main(){
+    int i,x,z,count,sum;
+    scanf("%d",&x); //x==3;
+
+    while(1){
+        scanf("%d",&z); //z==20;
+
+        if(x<z){
+            sum=0,count=0;
+            for(i=x;sum<z;i++){
+            count++;
+            sum=sum+i;
+        }
+        printf("%d\n",count);
+        break;
+        }
+        else if(x>=z){
+            continue;
+        }
+
+
+    }
+
+
+
+
+    return 0;
+}
+==> 1151.c <== 
 #include<stdio.h>
 int main(){
     int i,N,sum=0;
@@ -1680,7 +1740,7 @@ int main(){
 
     return 0;
 }
-==> 1153.c <==
+==> 1153.c <== 
 #include<stdio.h>
 int main(){
     int N,i,fact=1;
@@ -1694,7 +1754,7 @@ int main(){
 
     return 0;
 }
-==> 1154.c <==
+==> 1154.c <== 
 #include<stdio.h>
 int main(){
     double N,sum=0,count=0;
@@ -1713,7 +1773,7 @@ int main(){
 
     return 0;
 }
-==> 1155.c <==
+==> 1155.c <== 
 #include<stdio.h>
 int main(){
     double sum=0,i;
@@ -1728,7 +1788,7 @@ int main(){
 
     return 0;
 }
-==> 1156.c <==
+==> 1156.c <== 
 #include<stdio.h>
 int main(){
     double i,j,N,sum=0;
@@ -1744,7 +1804,7 @@ int main(){
 
     return 0;
 }
-==> 1157.c <==
+==> 1157.c <== 
 #include<stdio.h>
 int main(){
     int N,i;
@@ -1758,7 +1818,7 @@ int main(){
 
     return 0;
 }
-==> 1158.c <==
+==> 1158.c <== 
 #include<stdio.h>
 int main()
 {
@@ -1795,7 +1855,35 @@ int main()
     return 0;
 }
 
-==> 1164.c <==
+==> 1159.c <== 
+#include<stdio.h>
+int main(){
+    int a,N,i,j,sum1,sum2;
+
+    while(1){
+        scanf("%d",&N);
+
+        if(N==0) break;
+        else if(N%2==0){
+            sum1=0;
+            for(i=N;i<=(N+8);i=i+2){
+                sum1=sum1+i;
+            }
+            printf("%d\n",sum1);
+        }
+        else if(N%2!=0){
+            sum2=0;
+            a=N+1;
+            for(i=a;i<=(a+8);i=i+2){
+                sum2=sum2+i;
+            }
+            printf("%d\n",sum2);
+        }
+    }
+
+    return 0;
+}
+==> 1164.c <== 
 #include<stdio.h>
 int main(){
     int i,j,N,a,sum;
@@ -1814,7 +1902,7 @@ int main(){
 
     return 0;
 }
-==> 1165.c <==
+==> 1165.c <== 
 #include<stdio.h>
 int main(){
     int i,j,N,a,count;
@@ -1833,7 +1921,7 @@ int main(){
 
     return 0;
 }
-==> 1172.c <==
+==> 1172.c <== 
 #include<stdio.h>
 int main(){
     int i,j,X[10];
@@ -1851,18 +1939,123 @@ for(j=0;j<10;j++){
 
 return 0;
 }
-==> 1173.c <==
+==> 1173.c <== 
 #include<stdio.h>
 int main(){
-    int i,j,X[10];
+    int i,j,X[10],n;
 
     
     
-    scanf("%d",&X[j]);
-for(j=0;j<10;j++){
+    scanf("%d",&n);
+        for(i=n,j=0;j<10;i=i*2,j++){
     
-    printf("X[%d] = %d\n",j,X[j]*2);
+    printf("N[%d] = %d\n",j,i);
 }
 
 return 0;
+}
+==> 1174.c <== 
+#include<stdio.h>
+int main(){
+    int i,j;
+    double A[100];
+
+    for(i=0;i<100;i++){
+        scanf("%lf",&A[i]);
+    }
+    for(j=0;j<100;j++){
+        if(A[j]<=10.0) printf("A[%d] = %.1lf\n",j,A[j]);
+        else continue;
+    }
+
+    return 0;
+}
+==> 1177.c <== 
+#include <stdio.h>
+int main()
+{
+    int i, j, X[1000], n;
+
+    scanf("%d", &n);
+
+    i=0;
+    for (j = 0; j < 1000; j++){
+    printf("N[%d] = %d\n",j,i);
+    i++;
+        if(i==n) i=0;
+
+        
+    }
+
+    return 0;
+}
+
+
+
+
+
+
+
+==> 1178.c <== 
+#include <stdio.h>
+int main()
+{
+    double n,i;
+    int j, X[100];
+
+    scanf("%lf", &n);
+
+    i=n;
+    for (j = 0; j < 100; j++){
+    printf("N[%d] = %.4lf\n",j,i);
+    i/=2;
+
+        
+    }
+
+    return 0;
+}
+
+
+
+
+
+
+
+==> 1179.c <== 
+#include<stdio.h>
+int main(){
+    int n,par[100],impar[100];
+
+    for(i=1;i<=15;i++){
+        scanf("%d",&n);
+    }
+    for(i=0;i<15;i++){
+        if(n%2==0){
+        printf("par[%d] = %d\n",i,n);
+        
+
+    }
+
+
+
+
+
+
+
+
+    return 0;
+}
+==> 1180.c <== 
+#include<stdio.h>
+int main(){
+    int N;
+    scanf("%d",&N);
+    int 
+
+
+
+
+
+    return 0;
 }
